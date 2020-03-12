@@ -7,3 +7,9 @@ skjdfh akshd# โจทย์สอนอู๋เขียน Python แบบ�
 ทดลองใช้ Syntax เขียนไฟล์ README.MD (เรียกว่า Mark Down) คือคำอธิบายใต้ Git
 
 [Google](www.google.com)
+
+Col1  | Col2  |  Col3 | Col4
+----- | ----- | ----- | ----- |
+Test1 | Test1 | Test1 | Test1 |
+Test2 | Test2 | Test2 | Test2 |
+Test3 | Test3 | Test3 | Test3 |
