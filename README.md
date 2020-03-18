@@ -55,9 +55,9 @@ or
 Unorder lists 
 * *แบบวงกลมตัวเอียง 1* 
 * **แบบวงกลมตัวหนา 2** 
-  * sub item 1
-  * sub item 2
-  * sub item 2
+  * *แบบวงกลมตัวเอียง 1*
+  * _แบบวงกลมตัวเอียง 2_
+  * sub item 3
 
 Order lists
 
