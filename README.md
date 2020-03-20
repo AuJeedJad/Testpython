@@ -117,10 +117,10 @@ or
 \[  \]
 \(  \)
 \#  \#
-\+ Show special charactor \+
-\- Show special charactor \-
-\. Show special charactor \.
-\! Show special charactor \!
+\+  \+
+\-  \-
+\.  \.
+\!  \!
 
 ----------------------------------
 ----------------------------------
@@ -173,8 +173,8 @@ A short snippet describing the license (MIT, Apache, etc.)
  -- | -- | -- | -- | -- | -- | -- | -- |                               
   1  |  1  |  1  |  1  | 1  | 1  |  1  | 1  |                                   
   2  |  2  |  2  |     | 2  | 2  |  2  | 2  |                                 
-  3  |  3  |  3  |  3  | 3  | 3  |  3  |    |                                    
-  4  |  4  |  4  |  4  | 4  | 4  |  4  | 4  |
+  3  |     |  3  |  3  | 3  | 3  |  3  |    |                                    
+  4  |  4  |     |  4  |    | 4  |  4  | 4  |
   5  |  5  |  5  |  5  | 5  | 5  |  5  | 5  |
 
 
