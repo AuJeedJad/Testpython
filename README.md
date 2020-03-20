@@ -170,17 +170,18 @@ or
 ----------------------------------
 
 # Code and Syntax Highlighting
- `code` has `back-ticks around` it.
+
+* `code` has `back-ticks around` it.
  ---
- Name : `Surachai`
+*  Name : `Surachai`
  ***
- Lastname : `Srisawang`
+*  Lastname : `Srisawang`
  ___
- Tel : `0804793179`
- ___
- Address : `Eakkachai1`
+*  Tel : `0804793179`
+ ***
+*  Address : `Eakkachai1`
  ---
- Born : `19-07-2533`
+* Born : `19-07-2533`
 
 
 
