@@ -90,7 +90,6 @@ or
 > My name is Surachai Srisawang
 > ...
 > I'm reading readme.md tutorial ผมได้อ่านเกี่ยวกับการสอนของไฟล์ readme.md
-> ...
 
 ----------------------------------
 ----------------------------------
