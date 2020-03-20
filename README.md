@@ -161,21 +161,21 @@ or
 
 | Tables        | Are           | Cool   |
 | ------------- |:-------------:| -----: |
-| col 3 is      | 'right-aligned' | 53231฿ |
-| col 2 is      | 'centered'      |   399฿ |
-| zebra stripes | 'are neat'      |    33฿ |
+| col 3 is      | `right-aligned` | 53231฿ |
+| col 2 is      | `centered`      |   399฿ |
+| zebra stripes | `are neat`      |    33฿ |
 
 
 ----------------------------------
 ----------------------------------
 
 # Code and Syntax Highlighting
-`code` has `back-ticks around` it.
- Name : `Surachai`
- Lastname : `Srisawang`
- Tel : `0804793179`
- Address : `Eakkachai1`
- Born : `19-07-2533`
+* `code` has `back-ticks around` it.
+* Name : `Surachai`
+* Lastname : `Srisawang`
+* Tel : `0804793179`
+* Address : `Eakkachai1`
+* Born : `19-07-2533`
 
 
 
