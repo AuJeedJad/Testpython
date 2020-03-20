@@ -15,9 +15,9 @@ skjdfh akshd# โจทย์สอนอู๋เขียน Python แบบ�
 
 AuJeedJad1  | AuJeedJad2  |  AuJeedJad3 | AuJeedJad4                                        
 ----------- | ----------- | ----------- | ----------- |                                   
- Surachai1  |  Surachai1  |  Surachai1  |  Surachai1  |                                     
- Surachai2  |  Surachai2  |  Surachai2  |  Surachai2  |                                   
- Surachai3  |  Surachai3  |  Surachai3  |  Surachai3  |                                      
+   Surachai1  |  Surachai1  |  Surachai1  |  Surachai1  |                                     
+   Surachai2  |  Surachai2  |  Surachai2  |  Surachai2  |                                   
+   Surachai3  |  Surachai3  |  Surachai3  |  Surachai3  |                                      
 
 -------------------------------
 -------------------------------
