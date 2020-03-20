@@ -170,7 +170,7 @@ or
 ----------------------------------
 
 
-Inline `code` has `back-ticks around` it.
+`code` has `back-ticks around` it.
 
 
 
