@@ -161,13 +161,17 @@ or
 
 | Tables        | Are           | Cool   |
 | ------------- |:-------------:| -----: |
-Inline| col 3 is      | 'right-aligned' | 53231฿ |
-Inline| col 2 is      | 'centered'      |   399฿ |
-Inline| zebra stripes | 'are neat'      |    33฿ |
+| col 3 is      | 'right-aligned' | 53231฿ |
+| col 2 is      | 'centered'      |   399฿ |
+| zebra stripes | 'are neat'      |    33฿ |
 
 
 ----------------------------------
 ----------------------------------
+
+
+Inline `code` has `back-ticks around` it.
+
 
 
 
