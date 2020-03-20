@@ -18,7 +18,14 @@ skjdfh akshd# โจทย์สอนอู๋เขียน Python แบบ�
   Surachai1  |  Surachai1  |  Surachai1  |  Surachai1  | Surachai1  | Surachai1  |  Surachai1  | Surachai1  |                                   
   Surachai2  |  Surachai2  |  Surachai2  |  Surachai2  | Surachai2  | Surachai2  |  Surachai2  | Surachai2  |                                 
   Surachai3  |  Surachai3  |  Surachai3  |  Surachai3  | Surachai3  | Surachai3  |  Surachai3  | Surachai3  |                                    
-
+  Surachai4  |  Surachai4  |  Surachai4  |  Surachai4  | Surachai4  | Surachai4  |  Surachai4  | Surachai4  |
+  Surachai5  |  Surachai5  |  Surachai5  |  Surachai5  | Surachai5  | Surachai5  |  Surachai5  | Surachai5  |  
+  Surachai6  |  Surachai6  |  Surachai6  |  Surachai6  | Surachai6  | Surachai6  |  Surachai6  | Surachai6  |                                   
+  Surachai7  |  Surachai7  |  Surachai7  |  Surachai7  | Surachai7  | Surachai7  |  Surachai7  | Surachai7  |                                 
+  Surachai8  |  Surachai8  |  Surachai8  |  Surachai8  | Surachai8  | Surachai8  |  Surachai8  | Surachai8  |                                    
+  Surachai9  |  Surachai9  |  Surachai9  |  Surachai9  | Surachai9  | Surachai9  |  Surachai9  | Surachai9  |
+  Surachai10  |  Surachai10  |  Surachai10  |  Surachai10  | Surachai10  | Surachai10  |  Surachai10  | Surachai10  | 
+  
 -------------------------------
 -------------------------------
 
