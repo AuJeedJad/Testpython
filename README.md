@@ -171,11 +171,11 @@ or
 
 # Code and Syntax Highlighting
 `code` has `back-ticks around` it.
- Name : 'Surachai'
- Lastname : 'Srisawang'
- Tel : '0804793179'
- Address : 'Eakkachai1'
- Born : '19-07-2533'
+ Name : `Surachai`
+ Lastname : `Srisawang`
+ Tel : `0804793179`
+ Address : `Eakkachai1`
+ Born : `19-07-2533`
 
 
 
