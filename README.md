@@ -92,7 +92,11 @@ or
 
 # ลิ๊งไว้แปะลิ้งเพื่อกดไปยังเว็บอื่นหรือเรียกว่า Hyper links
 
-[GSiamsport](https://www.siamsport.co.th)
+[Siamsport](https://www.siamsport.co.th)
+[Google](https://www.google.com)
+[Facebook](https://www.facebook.com)
+
+
 
 ----------------------------------
 ----------------------------------
