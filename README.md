@@ -94,14 +94,14 @@ or
 ----------------------------------
 ----------------------------------
 
-\* 
-\'  \'
-\\  \\
-\_  \_
-\{  \}
-\[ Show special charactor \]
-\( Show special charactor \)
-\# Show special charactor \#
+< \* 
+< \'  
+< \\  
+< \_  
+< \{  \}
+< \[  \]
+< \(  \)
+< \#  \#
 \+ Show special charactor \+
 \- Show special charactor \-
 \. Show special charactor \.
