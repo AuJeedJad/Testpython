@@ -1,4 +1,7 @@
 
+#  ทำลิงค์นี้ต่อ และเขียน Loop อัพขึ้น Git printเลข 1-100 ออกมา ปริ้น a-z ออกมา
+http://marcuscode.com/lang/python/loop-statements
+
 #  ไอ้อู๋ ลองทำตามลิงค์ข้างล่าง
 http://marcuscode.com/lang/python/variables-and-types
 ## อันนี้จะทำให้เองรู้จักกับ Data ประเภทต่างๆ กับวิธีการนำมาใช้เขียน Code ลองทำตามอันนี้แล้ว Update ใน README.md
